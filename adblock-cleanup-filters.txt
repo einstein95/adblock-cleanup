@@ -25,5 +25,5 @@ www.redtube.com###contentHolder > .content > .videosTable > .tja
 
 !PornHub
 www.pornhub.com###hd-rightColVideoPage > .clearfix
-www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper > .feyz4yolxb
-www.pornhub.com###channelsBody > .floatLeft.leftSide > .h2r9yq27y1h
+www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper > div[class$="b"]
+www.pornhub.com###channelsBody > .floatLeft.leftSide > div[class$="h"]
