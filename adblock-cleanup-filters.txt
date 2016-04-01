@@ -24,6 +24,7 @@
 www.redtube.com###contentHolder > .content > .videosTable > .tja
 
 !PornHub
+www.pornhub.com###channelsBody > .floatLeft.leftSide > div[class$="h"]
 www.pornhub.com###hd-rightColVideoPage > .clearfix
 www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper > div[class$="b"]
-www.pornhub.com###channelsBody > .floatLeft.leftSide > div[class$="h"]
+www.pornhub.com##.wrapper > .container > .sectionWrapper:nth-of-type(4) > div[class$="d"]
