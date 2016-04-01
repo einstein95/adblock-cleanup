@@ -1,0 +1,29 @@
+[Adblock Plus 2.0]
+! Title: Adblock-Cleanup
+! Author: eientei95
+! Version: 0.1
+! Expires: 1 days
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+! Homepage: https://github.com/einstein95/adblock-cleanup
+! Twitter: https://twitter.com/logb95
+! Contact: TDL
+! Support: https://github.com/einstein95/adblock-cleanup/issues
+! Contribution: TDL
+! WritingRules: https://adblockplus.org/filters
+! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+! RegExpVisualizer http://www.regexper.com/
+!----------------------------------------------------------------------------------------------------!
+! Adblock-Cleanup
+!----------------------------------------------------------------------------------------------------!
+
+
+!----------------------------------------------------------------------------------------------------!
+! Adblock-Cleanup - Porn
+!----------------------------------------------------------------------------------------------------!
+!RedTube
+www.redtube.com###contentHolder > .content > .videosTable > .tja
+
+!PornHub
+www.pornhub.com###hd-rightColVideoPage > .clearfix
+www.pornhub.com##.wrapper > .container > .nf-videos > .sectionWrapper > .feyz4yolxb
+www.pornhub.com###channelsBody > .floatLeft.leftSide > .h2r9yq27y1h
